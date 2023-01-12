@@ -1,10 +1,10 @@
 const mineflayer = require('mineflayer');
 
 const botArgs = {
-    host: 'localhost',
-    port: '12345',
-    username: "Hello_world",
-    version: '1.8.9'
+    host: 'noxus_java.aternos.me',
+    port: '50075',
+    username: "BOT",
+    version: '1.16.5'
 };
 
 const initBot = () => {
